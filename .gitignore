@@ -1,1 +1,19 @@
+# Dependencies
+node_modules/
+/client/node_modules/
+/server/node_modules/
 
+# Build Output
+/client/build/
+dist/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Local Tools
+ngrok.exe
+ngrok
